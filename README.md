@@ -6,3 +6,11 @@ My name is Andrew. I'm interested in big ideas and solving even bigger problems.
 My academic and industry experience includes extensive experience in designing and executing experiments. At Keene State College, my lab developed novel inorganic carbene molecules, which required working in an air-sensitive environment. As a process chemist at Len-Tex Corporation, I performed two-level factorial design in the development of higher performing, and more sustainable inks, topcoats, and adhesives, and helped the organization achieve Cradle-to-Cradle certification through the MBDC.
 
 I currently work at Chroma Technology, an optical filter company, that supplies optics to the life sciences, astronomy, and machine vision industries. Some of the super-resolution applications we support are TIRF, STED, PALM, STORM, which represent the bleeding edge of biological research, and resolve images as small the nano level. At Chroma we take pride in being a 100% employee-owned business where we not only share in the profits but encourage participation of employees to think as employee-owners, to development, and act as good neighbors to our local community through volunteer service and financial support.
+
+SCIENTIFIC PUBLICATIONS: 
+ “The preparation and characterization of [IMesH]+[CpV(N)Cl2]-: an example of a compound containing a rare terminal V≡N bond.” C. D. Abernethy, J. P. Jasinski, C. E. Johnson, A. S. Metell, J. W. Queen; Dalton’s Transactions, Royal Society of Chemistry (Nov 2010).
+
+Professional Oranizations:
+Keene Toast Masters (2016)
+
+Operational excellence activities: Black belt Six Sigma, Lean Office, Lean Manufactuing, Gemba Accademy
